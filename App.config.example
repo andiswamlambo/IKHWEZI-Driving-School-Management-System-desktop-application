@@ -1,0 +1,14 @@
+<configuration>
+  <configSections>
+	</configSections>
+  <connectionStrings>
+    <add name="Driving_school_login_form.Properties.Settings.GroupWst27ConnectionString" connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=IkhweziDemo;Integrated Security=True;" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+  </startup>
+  <appSettings>
+    <add key="BrevoApiKey" value="" />
+    <add key="RescheduleResponseBaseUrl" value="" />
+  </appSettings>
+</configuration>
